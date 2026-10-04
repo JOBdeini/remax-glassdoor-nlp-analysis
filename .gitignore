@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Modelos y caches descargadas
+.cache/
+models/
+
+# Dataset pesado facilitado por el profesor (280 MB)
+data/raw/*.parquet
+
+# Resultados temporales que no formen parte de la entrega
+outputs/.ipynb_checkpoints/

@@ -1,0 +1,28 @@
+# Entorno validado con Python 3.12.13 en macOS Apple Silicon.
+
+# Notebook
+jupyterlab==4.6.4
+ipykernel==7.4.0
+
+# Datos y visualizacion
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+openpyxl==3.1.5
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+tqdm==4.70.1
+wordcloud==1.9.6
+
+# NLP, sentimiento y topic modeling
+torch==2.14.1
+transformers==5.18.0
+accelerate==1.15.0
+sentence-transformers==6.1.0
+bertopic==0.17.4
+umap-learn==0.5.12
+hdbscan==0.8.44
+nltk==3.10.3
