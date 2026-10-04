@@ -113,6 +113,10 @@ La presentación con el planteamiento, la metodología, los resultados y las rec
 
 [docs/presentacion-remax-analisis-asociados.pdf](docs/presentacion-remax-analisis-asociados.pdf)
 
+La versión completa del notebook en PDF, con código, explicaciones y resultados ejecutados, está disponible en:
+
+[docs/analisis-remax-glassdoor-notebook.pdf](docs/analisis-remax-glassdoor-notebook.pdf)
+
 ## Limitaciones
 
 - Las reseñas son voluntarias y pueden presentar sesgo de autoselección.
