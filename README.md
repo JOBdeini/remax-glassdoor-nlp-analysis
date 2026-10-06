@@ -33,6 +33,7 @@ El análisis se desarrolla sobre una muestra equilibrada de hasta 1.000 reseñas
 7. Benchmarking de RE/MAX frente a sus peers.
 8. Validación de los hallazgos mediante rating y recomendación.
 9. Construcción de una matriz de priorización y recomendaciones para RR. HH.
+10. Análisis complementarios por periodo, antigüedad y segmento de recomendación.
 
 ## Principales resultados
 
@@ -40,6 +41,8 @@ El análisis se desarrolla sobre una muestra equilibrada de hasta 1.000 reseñas
 - La marca y reputación constituye su principal fortaleza relativa, con una ventaja de **8,69 puntos porcentuales**.
 - Compensación, comisiones y costes concentra el **27,2 %** de las críticas y presenta una desventaja de **9,35 puntos porcentuales** frente a los peers.
 - Las personas actuales valoran su experiencia con **4,36**, frente a **3,75** entre quienes ya salieron.
+- Las críticas sobre compensación se mantienen por encima de los peers durante toda la serie temporal, mientras que las menciones negativas a formación y onboarding disminuyen.
+- Cultura y liderazgo representa el **21,48 %** de los cons entre quienes no recomendarían RE/MAX, frente al **4,98 %** entre quienes sí la recomiendan.
 - Las recomendaciones se centran en transparencia económica, seguimiento de cultura y liderazgo por oficina y un onboarding estructurado de 90 días.
 
 ## Estructura del proyecto
@@ -51,8 +54,7 @@ El análisis se desarrolla sobre una muestra equilibrada de hasta 1.000 reseñas
 ├── imagenes/              # Visualizaciones exportadas
 ├── models/                # Embeddings y artefactos locales no versionados
 ├── notebooks/
-│   ├── analisis_remax_glassdoor.ipynb
-│   └── Glassdoor_ejemplo.ipynb
+│   └── analisis_remax_glassdoor.ipynb
 ├── outputs/               # Resultados agregados en CSV
 ├── .python-version
 ├── requirements.txt
