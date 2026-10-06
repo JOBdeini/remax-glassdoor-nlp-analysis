@@ -177,12 +177,9 @@ La versión completa del notebook en PDF, con código, explicaciones y resultado
 
 ## Referencias y recursos
 
-- Gauthier, D. *Glassdoor Job Reviews* [dataset]. Kaggle.  
-  <https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews>
-- Gauthier, D. *Glassdoor Job Reviews 2* [dataset]. Kaggle.  
-  <https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews-2>
-- Gauthier, D. Perfil y referencia académica en Google Scholar.  
-  <https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FQstpaoAAAAJ&citation_for_view=FQstpaoAAAAJ:UebtZRa9Y70C>
+- Gauthier, D. *Glassdoor Job Reviews* [dataset]. [Kaggle](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews).
+- Gauthier, D. *Glassdoor Job Reviews 2* [dataset]. [Kaggle](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews-2).
+- Gauthier, D. [Perfil y referencia académica en Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FQstpaoAAAAJ&citation_for_view=FQstpaoAAAAJ:UebtZRa9Y70C).
 
 ## Autor
 
