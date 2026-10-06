@@ -49,6 +49,23 @@ El análisis se desarrolla sobre una muestra equilibrada de hasta 1.000 reseñas
 
 ## Visualizaciones destacadas
 
+### Matriz de priorización de áreas de mejora
+
+La matriz sintetiza el diagnóstico y constituye la visualización principal del proyecto.
+El eje horizontal representa el peso de cada categoría en los `cons` de RE/MAX y el eje
+vertical su desventaja frente a los peers. El tamaño de las burbujas recoge el número de
+reseñas asociadas y el color incorpora la clasificación final tras contrastar cada señal
+con el rating y la recomendación.
+
+`Compensación, comisiones y costes` aparece claramente separada del resto como la única
+prioridad competitiva alta. `Modelo de negocio y mercado` y `Formación, onboarding y
+soporte` requieren revisión, mientras que `Cultura, liderazgo y equipo` se interpreta como
+un riesgo interno de intensidad elevada, pero no como una debilidad competitiva general.
+
+![Matriz de priorización de áreas de mejora en RE/MAX](imagenes/matriz_priorizacion_remax.png)
+
+Resultados tabulares: [matriz_priorizacion_remax.csv](outputs/matriz_priorizacion_remax.csv).
+
 ### Fortalezas mencionadas en los pros
 
 Marca y reputación es la principal fortaleza diferencial de RE/MAX. Flexibilidad y
