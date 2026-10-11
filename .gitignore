@@ -18,3 +18,4 @@ data/raw/*.parquet
 
 # Resultados temporales que no formen parte de la entrega
 outputs/.ipynb_checkpoints/
+tmp/

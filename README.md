@@ -176,6 +176,11 @@ El notebook guarda las visualizaciones en `imagenes/` y los resultados tabulares
 
 ## Presentación ejecutiva
 
+La explicación en vídeo del proyecto, con un recorrido por la metodología, los principales
+resultados y las recomendaciones para Recursos Humanos, está disponible en YouTube:
+
+[Ver la presentación del proyecto en YouTube](https://youtu.be/paGWh5KdUdU)
+
 La presentación con el planteamiento, la metodología, los resultados y las recomendaciones se encuentra en:
 
 [docs/presentacion-remax-analisis-asociados.pdf](docs/presentacion-remax-analisis-asociados.pdf)
